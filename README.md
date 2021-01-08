@@ -1,8 +1,12 @@
-# 2D Animation
-Project files for our tutorial on 2D Animation in Unity.
+# 2D Character Movement Animation
 
-The complete Unity project is under "2D Animation" and the newest version of the CharacterController2D can be found [here](https://github.com/Brackeys/2D-Character-Controller).
+Projeto de referência para movimentação e animação de personagens 2D no Unity.
+Usando versão do Unity 2019.4.17f1 LTS .
 
-The asset pack used for the environment is Sunny Land which you can download [here](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
+Repositório do projeto original: https://github.com/Brackeys/2D-Character-Controller .
 
-Check out our [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
+Gráficos do projeto feitos com o pacote de assets [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349).
+
+[Playlist dos Tutoriais](https://www.youtube.com/watch?v=on9nwbZngyw&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)
+
+Canal do Instrutor: [Brackeys](http://youtube.com/brackeys)
